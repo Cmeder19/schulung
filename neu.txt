@@ -3,3 +3,6 @@ Hallo mein Name ist Carolin.
 Ich esse einen Apfel. 
 
 Er war lecker.
+
+Der war nicht lecker.
+
